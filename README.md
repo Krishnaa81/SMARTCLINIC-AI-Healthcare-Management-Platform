@@ -24,8 +24,8 @@ https://smartcinicai.onrender.com/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/EPILIASHOKKUMAR/doctor-appointment-system.git
-cd doctor-appointment-system
+git clone https://github.com/Krishnaa81/SMARTCLINIC-AI-Healthcare-Management-Platform.git
+cd SMARTCLINIC-AI-Healthcare-Management-Platform
 ```
 
 2. **Create virtual environment**
@@ -198,8 +198,8 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**Ashok Kumar**
-- GitHub: [@EPILIASHOKKUMAR](https://github.com/EPILIASHOKKUMAR)
+**Krishna Reddy**
+- GitHub: [@Krishnaa81](https://github.com/Krishnaa81)
 
 ## 🙏 Acknowledgments
 
@@ -214,4 +214,4 @@ For issues and questions, please open an issue on GitHub.
 
 ---
 
-**Made with ❤️ by Ashok Kumar**
+**Made with ❤️ by Krishna Reddy**
