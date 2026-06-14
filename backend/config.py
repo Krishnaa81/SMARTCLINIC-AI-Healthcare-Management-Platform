@@ -11,7 +11,7 @@ class Config:
 
 class DevelopmentConfig(Config):
     DEBUG = True
-    SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:Ashok%4011042005@localhost/clinic_db'
+    SQLALCHEMY_DATABASE_URI = os.getenv('DATABASE_URL', 'mysql+pymysql://root:YOUR_PASSWORD@localhost/clinic_db')
 
 class ProductionConfig(Config):
     DEBUG = False

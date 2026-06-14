@@ -12,7 +12,7 @@ import google.generativeai as genai
 load_dotenv()
 
 # Production-ready configuration
-DATABASE_URL = os.getenv('DATABASE_URL', 'mysql+pymysql://root:Ashok%4011042005@localhost/clinic_db')
+DATABASE_URL = os.getenv('DATABASE_URL', 'mysql+pymysql://root:YOUR_PASSWORD@localhost/clinic_db')
 
 # Fix for Heroku PostgreSQL URL (postgres:// -> postgresql://)
 if DATABASE_URL.startswith('postgres://'):

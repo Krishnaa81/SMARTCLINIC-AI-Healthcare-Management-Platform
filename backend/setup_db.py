@@ -4,7 +4,7 @@ import sys
 # Database connection details
 host = 'localhost'
 user = 'root'
-password = 'Ashok@11042005'
+password = 'YOUR_PASSWORD'  # Change this to your MySQL password
 database = 'clinic_db'
 
 try:
